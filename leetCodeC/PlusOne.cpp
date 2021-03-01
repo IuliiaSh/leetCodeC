@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 class PlusOne {
 public:
     vector<int> plusOne(vector<int>& digits) {
